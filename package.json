@@ -1,6 +1,6 @@
 {
 	"name": "bootstrap-3-snippets",
-	"displayName": "Bootstrap 3 Snippets",
+	"displayName": "Bootstrap 3 Snippets with Smarty",
 	"description": "Bootstrap 3 Snippets for VS Code",
 	"icon": "images/icon.png",
 	"version": "0.0.8",
@@ -35,6 +35,10 @@
 				"language": "php",
 				"path": "./snippets/snippets.json"
  			},
+			{
+				"language": "Smarty",
+				"path": "./snippets/snippets.json"
+			},
  			{
  				"language": "razor",
  				"path": "./snippets/snippets.json"
